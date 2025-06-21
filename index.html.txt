@@ -1,0 +1,42 @@
+Tap Timer
+Privacy Policy Last Updated: June 7 2025
+1. Overview
+Tap Timer (“we”, “our”, “us”) respects your privacy. We do not run our own servers, sell data, or track you across apps. All information stays on your devices or in your private iCloud container, under Apple’s security and encryption.
+2. Data We Handle
+Category
+Where It Lives
+Purpose
+Linked to You?
+Interval Sets & Templates
+Encrypted iCloud storage
+Sync across iPhone & Apple Watch
+No – only you can access them
+HealthKit Data (workout type, duration, calories, heart rate)
+Secure enclave on device / Health app
+Start & record workouts with your explicit consent
+No – never leaves HealthKit
+Crash Logs (optional)
+Apple’s developer console
+Diagnose bugs & improve stability
+No – Apple removes identifiers before we see them
+We do not collect device IDs, user IDs, location data, advertising identifiers, or product‑interaction analytics.
+3. How We Use Information
+	•	Core Functionality – Run timers, deliver haptic feedback, sync data via iCloud.
+	•	Health & Fitness – If you grant permission, create and log workouts in the Health app.
+	•	Reliability – Review anonymized crash logs (if you opt in to “Share With App Developers” in iOS settings).
+4. Data Sharing
+We share nothing with third parties, advertising networks, or analytics providers. Health data never leaves your device.
+5. Your Controls
+	•	Revoke Health Access – iOS > Health > Data Access & Devices > Tap Timer.
+	•	Delete All Data – In iOS > Settings > Apple ID > iCloud > Manage Storage > Tap Timer, or simply delete the app; iOS will offer to remove its iCloud data.
+	•	Crash Reports – Disable at any time in iOS > Settings > Privacy & Security > Analytics & Improvements.
+6. Children’s Privacy
+We do not knowingly collect personal data from children.
+7. Changes to This Policy
+We may update this policy to reflect new features or legal requirements. Material changes will be announced in‑app and on this page. The “Last Updated” date shows the latest revision.
+8. Contact Us
+Questions or concerns? Reach us at lottermoser.max@icloud.com. We’ll reply within 30 days.
+9. California Privacy Notice (CCPA)
+Tap Timer does not sell personal information. Because we do not maintain user‑identifiable records, requests to access, delete, or opt out of “sale” are not applicable. Uninstalling the app removes any data under our control.
+Plain‑English Summary: Tap Timer records timers and (optionally) workouts, stores them privately in iCloud/Health, and never sends them anywhere else. Your data stays yours—full stop.
+© 2025 Tap Timer
